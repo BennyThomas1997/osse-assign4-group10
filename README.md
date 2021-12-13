@@ -5,6 +5,7 @@ For the purpose of learning the features of git, github.
 
 ## Vinayaka Naik
 ### BITS ID: 2020SP93029
+~~Verify contribution~~
 
 
 **Benny Thomas_2020sp93040**
