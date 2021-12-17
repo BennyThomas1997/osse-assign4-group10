@@ -17,3 +17,5 @@ Project Specifics
 We are working on OSSE assignment.
 
 The files uploaded in the repository and used by the contributors are dummy files used in their previous projects and assignments
+
+<h3> The file contains confidential data and cannot be accessed by all.</h2>
